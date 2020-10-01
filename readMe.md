@@ -1,1 +1,1 @@
-Read Me generator using node
+When creating an open source project on Github, as we all know, it’s important  to have  a good README file to describe the concept of the application, with this in mind, I introduce Good-README-Generator. This application uses the command line to generator tons of valuable information for a good README, including badges, version number, etc.  
